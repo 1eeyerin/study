@@ -1,26 +1,46 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Button from 'component/Button';
+import Flex from 'component/Flex';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const App = () => {
+	return (
+		<>
+			<Flex>
+				<Button
+					size="small"
+					theme="primary"
+					strokeMode
+					fullWidth
+					disabled
+					type="button">
+					바로 보러가기 &gt;
+				</Button>
+				<Button
+					size="medium"
+					theme="secondary"
+					fullWidth
+					type="button">
+					바로 보러가기 &gt;
+				</Button>
+				<Button
+					size="medium"
+					theme="tertiary"
+					fullWidth
+					type="button">
+					바로 보러가기 &gt;
+				</Button>
+			</Flex>
+			<Flex>
+				<Button
+					size="large"
+					theme="primary"
+					fullWidth
+					type="button">
+					바로 보러가기 &gt;
+				</Button>
+			</Flex>
+		</>
+	);
 }
 
 export default App;
