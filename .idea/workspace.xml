@@ -5,19 +5,195 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5df0b110-4f73-40ea-b256-fdb351e5e4ac" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Flex.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-code-frame-npm-7.22.13-2782581d20-22e342c807.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-highlight-npm-7.22.13-7849944df2-7266d2bff8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-parser-npm-7.22.14-3edb2082c6-a2293971f0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-async-generator-functions-npm-7.22.11-905baebde1-f11227a1d2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-class-static-block-npm-7.22.11-e460e0829a-69f040506f.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-dynamic-import-npm-7.22.11-2fc9a2bc7f-78fc9c5322.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-export-namespace-from-npm-7.22.11-cf80bdbf8f-73af5883a3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-json-strings-npm-7.22.11-49a3a0acbb-50665e5979.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-logical-assignment-operators-npm-7.22.11-731383ad60-c664e9798e.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-nullish-coalescing-operator-npm-7.22.11-1e56b33085-167babecc8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-numeric-separator-npm-7.22.11-09c49d6ce4-af064d06a4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-object-rest-spread-npm-7.22.11-26b7c4ec76-b9c9ed8df8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-optional-catch-binding-npm-7.22.11-bf9014d073-f17abd90e1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-optional-chaining-npm-7.22.12-8df0b0be3f-47065439bb.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-private-property-in-object-npm-7.22.11-764d495639-4d029d8490.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-preset-typescript-npm-7.22.11-fadff51460-8ae7162c31.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@babel-runtime-npm-7.22.11-88b2589067-a5cd6683a8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@eslint-community-regexpp-npm-4.8.0-92ece47e3d-601e6d033d.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@pkgr-utils-npm-2.4.2-5333ff17f3-24e04c1212.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-express-serve-static-core-npm-4.17.36-87a82f5a6b-410b13cbd6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-react-npm-18.2.21-c50bc2f785-ffed203bfe.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-types-npm-6.5.0-bab6e93f93-950ec16991.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-typescript-estree-npm-6.5.0-a2645bd83f-05717fa1f2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/array.prototype.findlastindex-npm-1.2.3-2a36f4417b-31f35d7b37.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/array.prototype.reduce-npm-1.0.6-d706585613-c709c3f5ca.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/big-integer-npm-1.6.51-1a244d8e1f-3d444173d1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/bplist-parser-npm-0.2.0-91a681e495-d5339dd16a.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/bundle-name-npm-3.0.0-d7e52ba2a3-edf2b1fbe6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/caniuse-lite-npm-1.0.30001524-412c248e4d-35d662a62f.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/cssdb-npm-7.7.1-aafe90200f-61e3094a3c.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/default-browser-id-npm-3.0.0-f65ceaa214-279c7ad492.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/default-browser-npm-4.0.0-e9e9c8aba0-40c5af9847.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/define-lazy-prop-npm-3.0.0-6bb0fc1510-54884f94ca.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/dns-packet-npm-5.6.1-9543a780b5-64c06457f0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/eslint-plugin-prettier-npm-5.0.0-2f21113cba-84e88744b9.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/execa-npm-7.2.0-7797cafb24-14fd17ba0c.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/fast-diff-npm-1.3.0-9f19e3b743-d22d371b99.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/flat-cache-npm-3.1.0-bc8074086c-99312601d5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/fraction.js-npm-4.3.1-ce1111a074-8769badfd2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/fsevents-npm-2.3.3-ce9fb0ffae-11e6ea6fea.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/fsevents-patch-21ad2b1333-8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/function.prototype.name-npm-1.1.6-fd3a6a5cdd-7a3f9bd98a.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/human-signals-npm-4.3.1-d723001512-6f12958df3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/is-docker-npm-3.0.0-1570e32177-b698118f04.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/is-inside-container-npm-1.0.0-f2c9e9bb96-c50b75a2ab.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/is-stream-npm-3.0.0-a77ac9a62e-172093fe99.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/jackspeak-npm-2.3.1-261281161e-34ea4d618d.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/jiti-npm-1.19.3-11389fe829-de3dacdfe3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/json-buffer-npm-3.0.1-f8f6d20603-9026b03edc.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/keyv-npm-4.5.3-d2382300dd-3ffb4d5b72.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/mimic-fn-npm-4.0.0-feaeda79f7-995dcece15.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/npm-run-path-npm-5.1.0-79c0668d42-dc184eb5ec.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/object.entries-npm-1.1.7-f2a7fea503-da287d434e.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/object.groupby-npm-1.0.1-fc268391fe-d7959d6eaa.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/object.values-npm-1.1.7-deae619f88-f3e4ae4f21.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/onetime-npm-6.0.0-4f3684e29a-0846ce78e4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/open-npm-9.1.0-d104a17ec5-3993c0f61d.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/path-key-npm-4.0.0-2bce99f089-8e6c314ae6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/prettier-linter-helpers-npm-1.0.0-6925131a7e-00ce8011cf.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/run-applescript-npm-5.0.0-ea4b8840dd-d00c2dbfa5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/strip-final-newline-npm-3.0.0-7972cbec8b-23ee263adf.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/synckit-npm-0.8.5-40a594eb38-8a9560e5d8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/terser-npm-5.19.3-7292aa22bf-dde1b38789.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/titleize-npm-3.0.0-7deac2f3a3-71fbbeabbf.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/ts-api-utils-npm-1.0.2-0fe6a86036-6375e12ba9.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/typescript-npm-4.9.3-228c75fdd3-17b8f81605.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/typescript-patch-38a6667774-d7bdcf5e18.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/untildify-npm-4.0.0-4a8b569825-39ced9c418.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/cache/whatwg-fetch-npm-3.6.18-a32f1f1653-72fd318a00.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/repo/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pnp.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/.pnp.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pnp.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pnp.loader.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-code-frame-npm-7.22.10-bc14e2ec1b-89a06534ad.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-core-npm-7.22.10-54c0aaa674-cc4efa0920.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-core-npm-7.22.11-96657225e0-f258b2539e.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-eslint-parser-npm-7.22.10-6859396d88-56f53da0e3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-eslint-parser-npm-7.22.11-5927ce2c8f-a7d4406ac0.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-helper-create-class-features-plugin-npm-7.22.10-ce515b2cfb-9683edbf73.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-helper-create-class-features-plugin-npm-7.22.11-6fd208c381-b7aeb22e29.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-helpers-npm-7.22.10-83a2c2542a-3b1219e362.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-helpers-npm-7.22.11-0c5f72494f-9318654422.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-highlight-npm-7.22.10-cea13c397b-f714a1e1a7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-parser-npm-7.22.10-a7c9b29e4f-af51567b7d.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-async-generator-functions-npm-7.22.10-82d3750ac8-87d77b66fd.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-class-static-block-npm-7.22.5-8cb8058c1d-bc48b92dba.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-dynamic-import-npm-7.22.5-5245ff4c0c-186a6d59f3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-export-namespace-from-npm-7.22.5-822b6dab82-3d197b7887.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-json-strings-npm-7.22.5-570f5d94c4-4e00b90248.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-logical-assignment-operators-npm-7.22.5-e2bd9d5d66-18748e953c.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-modules-commonjs-npm-7.22.5-9fb6bd76fa-2067aca8f6.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-modules-commonjs-npm-7.22.11-0773660ea3-c15ad7f123.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-modules-systemjs-npm-7.22.5-f10f9d7e6d-04f4178589.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-modules-systemjs-npm-7.22.11-b87a68e2c3-d0991e4bdc.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-nullish-coalescing-operator-npm-7.22.5-f071b4a3c0-e6a059169d.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-numeric-separator-npm-7.22.5-301bcf6067-9e7837d4ea.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-object-rest-spread-npm-7.22.5-20b746e649-3b5e091f0d.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-optional-catch-binding-npm-7.22.5-78456ccc55-b0e8b4233f.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-optional-chaining-npm-7.22.10-abd21509fa-522d6214bb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-private-property-in-object-npm-7.22.5-2ea542a7ca-9ac019fb27.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-typescript-npm-7.22.10-40ad2ac9e9-e15ca8cd9f.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-plugin-transform-typescript-npm-7.22.11-a257a33f7b-a0dc3c2427.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-preset-env-npm-7.22.10-658c4ed644-4145a660a7.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-preset-env-npm-7.22.14-2c700eba81-a62b5717a8.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-preset-typescript-npm-7.22.5-cd7e0abd79-7be1670cb4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-runtime-npm-7.22.10-2771d0ecab-524d41517e.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-traverse-npm-7.22.10-9eaf5a4899-9f7b358563.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-traverse-npm-7.22.11-5daecec537-4ad62d548c.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@babel-types-npm-7.22.10-ffafe4058f-095c4f4b75.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@babel-types-npm-7.22.11-ff8924a765-431a644689.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@eslint-community-regexpp-npm-4.6.2-0fc083c210-a3c341377b.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@eslint-js-npm-8.47.0-ecde461ef4-0ef57fe27b.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@eslint-js-npm-8.48.0-cee42a7097-b2755f9c0e.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@humanwhocodes-config-array-npm-0.11.10-7b63df9e7f-1b1302e240.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@humanwhocodes-config-array-npm-0.11.11-e3582554ee-db84507375.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@jest-expect-utils-npm-29.6.2-bafd0077bb-0decf2009a.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@jest-schemas-npm-29.6.0-3ca8b9309f-c00511c69c.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@jest-types-npm-29.6.1-b7c765fadd-89fc1ccf71.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@sinclair-typebox-npm-0.27.8-23e206d653-00bd7362a3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@types-express-serve-static-core-npm-4.17.35-c86e5f6e4a-cc8995d10c.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@types-jest-npm-29.5.3-8fc40e94bc-e36bb92e0b.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@types-node-npm-16.18.40-df6f15e2e6-a683930491.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@types-node-npm-16.18.46-438e56ef00-1aed3fe969.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@types-node-npm-20.5.0-ea170d5dd7-659bc5fc93.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@types-react-npm-18.2.20-c3e301ef67-30f699c60e.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@types-semver-npm-7.5.0-4823ff34be-0a64b9b9c7.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@types-semver-npm-7.5.1-cda240741c-2fffe938c7.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-eslint-plugin-npm-6.4.0-4b19251554-d59e88228a.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-eslint-plugin-npm-6.5.0-f2e890b07d-d81525c9a0.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-parser-npm-6.4.0-bf5dbcdb6b-36c8dbeacf.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-parser-npm-6.5.0-2185874d65-e9a70886ec.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-scope-manager-npm-6.4.0-5d171185da-19406eac3a.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-scope-manager-npm-6.5.0-950a5168ee-30d78143f6.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-type-utils-npm-6.4.0-99cc13dbe3-7930d2ffdc.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-type-utils-npm-6.5.0-805fdd8cb3-80b9e5099f.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-types-npm-6.4.0-911eef0008-85b293ad15.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-typescript-estree-npm-6.4.0-5419cb7b42-a8db389655.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-utils-npm-6.4.0-8c72795585-abc55382c6.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-utils-npm-6.5.0-653e9ae1c1-58a82213c8.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-visitor-keys-npm-6.4.0-adb9d991f5-42eb614b9c.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/@typescript-eslint-visitor-keys-npm-6.5.0-f5e0d86a48-768a02dd0d.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/array.prototype.findlastindex-npm-1.2.2-dc5ee7bf67-8a166359f6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/array.prototype.reduce-npm-1.0.5-161dafd7db-f44691395f.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/caniuse-lite-npm-1.0.30001521-dc986950b0-be2a2b2cd3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/core-js-compat-npm-3.32.0-86eb2f7323-e740b348df.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/core-js-compat-npm-3.32.1-d74aca93d6-2ce0002d6d.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/core-js-npm-3.32.0-ccedf4fd04-5292139502.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/core-js-npm-3.32.1-9e1b747caa-e4af91d9c6.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/core-js-pure-npm-3.32.0-2ab9c5a73e-57b1ae97e6.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/core-js-pure-npm-3.32.1-57f293c7be-06d3b1585b.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/cssdb-npm-7.7.0-510e7ecd17-973b483fdd.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/diff-sequences-npm-29.4.3-ffe403944f-28b265e04f.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/dns-packet-npm-5.6.0-38073244c2-1b643814e5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/electron-to-chromium-npm-1.4.494-4fc61b2b90-95f72d22e0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/electron-to-chromium-npm-1.4.505-2ecacf035b-e3255e2d13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/es-iterator-helpers-npm-1.0.13-9d38f09ebc-1b08ae7388.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/es-iterator-helpers-npm-1.0.14-d7e6ef7a2b-484ca39838.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/eslint-npm-8.47.0-84c6b60ea8-1988617f70.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/eslint-npm-8.48.0-0dd1c36629-f20b359a4f.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/eslint-plugin-import-npm-2.28.0-7894c48955-f9eba311b9.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/eslint-plugin-import-npm-2.28.1-2056ddf35c-e8ae6dd8f0.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/expect-npm-29.6.2-d56284fd66-71f7b0c560.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/flat-cache-npm-3.0.4-ee77e5911e-4fdd10ecbc.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/fraction.js-npm-4.2.0-28efe4afc7-8c76a6e21d.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/fsevents-npm-2.3.2-a881d6ac9f-97ade64e75.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/fsevents-patch-2882183fbf-8.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/function.prototype.name-npm-1.1.5-e776a642bb-acd21d733a.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/jackspeak-npm-2.3.0-d55fd5c42c-71bf716f4b.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/jest-diff-npm-29.6.2-caa9c5f644-0effd66a0c.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/jest-get-type-npm-29.4.3-790eefdb01-6ac7f2dde1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/jest-matcher-utils-npm-29.6.2-fd1c69812e-3e1b65dd30.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/jest-message-util-npm-29.6.2-8bd7bc632e-e8e3c8d230.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/jest-util-npm-29.6.2-41bd0e8e02-8aedc0c800.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/jiti-npm-1.19.1-eef2f0ec29-fdf55e315f.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/object.entries-npm-1.1.6-5f9ba14b46-0f8c47517e.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/object.fromentries-npm-2.0.6-424cf4cd3c-453c6d6941.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/object.fromentries-npm-2.0.7-2e38392540-7341ce246e.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/object.groupby-npm-1.0.0-b360bea3aa-64b00b287d.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/object.hasown-npm-1.1.2-db9bbc7f97-b936572536.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/object.hasown-npm-1.1.3-84e62d27f5-76bc17356f.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/object.values-npm-1.1.6-ab9b67ccd3-f6fff9fd81.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/postcss-npm-8.4.28-ce7cf45f10-f605c24a36.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/postcss-npm-8.4.29-2319a64d31-dd6daa25e7.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/prettier-npm-3.0.2-2cbecb9037-118b59ddb6.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/prettier-npm-3.0.3-fced695dae-e10b9af02b.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/pretty-format-npm-29.6.2-7f39471065-a0f972a44f.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/string.prototype.matchall-npm-4.0.8-1feb1531b6-952da3a818.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/string.prototype.matchall-npm-4.0.9-dbaa74bc89-a68a991475.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/terser-npm-5.19.2-91391d2f00-e059177775.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/ts-api-utils-npm-1.0.1-7c62f6caff-78794fc727.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/tslib-npm-2.6.1-de28eba753-b0d176d176.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/tslib-npm-2.6.2-4fc8c068d9-329ea56123.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/whatwg-fetch-npm-3.6.17-1115589b78-0a8785dc2d.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/yaml-npm-2.3.1-743f5688d1-2c7bc9a7cd.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/cache/yaml-npm-2.3.2-b844830a8b-acd80cc24d.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.yarn/install-state.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/install-state.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/releases/yarn-3.6.1.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/releases/yarn-3.6.3.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarnrc.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.yarnrc.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/components/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Flex.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/components/Flex.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/reportWebVitals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/repo/src/setupTests.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,13 +204,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="JavaScript File" />
+        <option value="package.json" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tsconfig.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/packages/repo/src/components/Button.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.yarnrc.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.eslintrc.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsBowerSettings">
     <bower-package value="" />
@@ -56,7 +240,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/study" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -66,12 +250,19 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="yarn:package.json:prettier" />
     <property name="settings.editor.selected.configurable" value="actions.on.save" />
-    <property name="ts.external.directory.path" value="yarn:package.json:typescript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/study" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/repo/src" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/packages/study/src" />
+      <recent name="$PROJECT_DIR$/packages/sds/src" />
+      <recent name="$PROJECT_DIR$/packages/ds/src/components" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -92,6 +283,18 @@
       <workItem from="1692292300526" duration="198000" />
       <workItem from="1692292524951" duration="47000" />
       <workItem from="1692292598146" duration="2362000" />
+      <workItem from="1693356422738" duration="1379000" />
+      <workItem from="1693404261534" duration="58000" />
+      <workItem from="1693404336314" duration="978000" />
+      <workItem from="1693405344797" duration="543000" />
+      <workItem from="1693405926289" duration="1049000" />
+      <workItem from="1693406992580" duration="105000" />
+      <workItem from="1693407111775" duration="104000" />
+      <workItem from="1693407237818" duration="385000" />
+      <workItem from="1693407639417" duration="299000" />
+      <workItem from="1693407954415" duration="3445000" />
+      <workItem from="1693411527008" duration="2413000" />
+      <workItem from="1693413958758" duration="2961000" />
     </task>
     <servers />
   </component>
