@@ -5,47 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5df0b110-4f73-40ea-b256-fdb351e5e4ac" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-babel__preset-env-npm-7.9.2-1a8f8f7ac1-a905ed92a3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-glob-npm-7.2.0-772334bf9a-6ae717fedf.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/@types-minimatch-npm-5.1.2-aab9c394d3-0391a28286.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/@webpack-cli-configtest-npm-2.1.1-2aa637b6bc-9f9f9145c2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/@webpack-cli-info-npm-2.0.2-494be2e91a-8f9a178afc.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/@webpack-cli-serve-npm-2.0.5-5a220c2601-75f0e54681.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/array-union-npm-1.0.2-cc61ee268f-82cec6421b.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/array-uniq-npm-1.0.3-e7f5d6f3a1-1625f06b09.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/clean-webpack-plugin-npm-4.0.0-5a85c794c8-199425e87b.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/commander-npm-10.0.1-f17613b72b-436901d64a.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/del-npm-4.1.1-8bc04567c6-521f7da44b.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/fastest-levenshtein-npm-1.0.16-192d328856-a78d44285c.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/globby-npm-6.1.0-590bfb2681-18109d6b9d.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/interpret-npm-3.1.1-715bac2bd7-35cebcf48c.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/is-path-in-cwd-npm-2.1.0-2a2ca98522-6b01b3f8c9.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/is-path-inside-npm-2.1.0-f943552e7a-6ca34dbd84.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/p-map-npm-2.1.0-d9e865dc7c-9e3ad3c9f6.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/path-is-inside-npm-1.0.2-7dd0711668-0b5b6c92d3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/pinkie-npm-2.0.4-cffce4fb09-b12b10afea.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/pinkie-promise-npm-2.0.1-095439b8c5-b53a4a2e73.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/rechoir-npm-0.8.0-fb660b3bc8-ad3caed8af.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/ts-loader-npm-9.4.4-f7a7993559-8e5e6b839b.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/typescript-npm-5.2.2-01717e9f84-7912821dac.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/typescript-patch-2e8dbfb8ab-0f4da2f15e.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/webpack-cli-npm-5.1.4-7be5b53b38-3a4ad0d034.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/webpack-merge-npm-5.9.0-9110e650de-64fe2c23aa.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/cache/wildcard-npm-2.0.1-7c6a3a3365-e0c60a12a2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/webpack.common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/webpack.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/without-cra/webpack.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/without-cra/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/without-cra/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/without-cra/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/without-cra/dist/bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/without-cra/dist/bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/without-cra/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.yarn/install-state.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/install-state.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/webpack.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/webpack.common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/webpack.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/without-cra/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/without-cra/webpack.prod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +127,7 @@
       <workItem from="1693407954415" duration="3445000" />
       <workItem from="1693411527008" duration="2413000" />
       <workItem from="1693413958758" duration="2961000" />
-      <workItem from="1693496401003" duration="12673000" />
+      <workItem from="1693496401003" duration="15395000" />
     </task>
     <servers />
   </component>
