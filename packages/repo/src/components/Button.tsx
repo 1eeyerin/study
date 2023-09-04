@@ -1,5 +1,5 @@
 /** @jsxImportSource @emotion/react */
-import React from 'react';
+import React, { ButtonHTMLAttributes } from 'react';
 import {css} from '@emotion/react';
 
 const style = (disabled: boolean) => css`
@@ -12,14 +12,10 @@ const style = (disabled: boolean) => css`
 	`}
 `;
 
-interface ButtonProps {
-	onClick?: React.MouseEventHandler<HTMLButtonElement> | undefined;
-	type: "button" | "submit" | "reset";
-	className?: string;
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 	size: "small" | "medium" | "large";
 	theme: "primary" | "secondary" | "tertiary";
 	strokeMode?: boolean;
-	disabled?: boolean;
 	fullWidth: boolean;
 	children: string;
 }
@@ -33,7 +29,8 @@ const Button = ({
 	size = 'medium',
 	theme = 'primary',
 	className,
-	children
+	children,
+	...props
 }: ButtonProps) => {
 	const mode = strokeMode ? 'stroke' : 'fill';
 	const bgColorStyle = {backgroundColor: backgroundColor[theme][mode]};
@@ -42,9 +39,9 @@ const Button = ({
 	const paddingStyle = {padding: padding[size]};
 	const fontStyle = {fontSize: fontSize[size]};
 	const widthStyle = fullWidth ? {width: '100%'} : '';
+
 	return (
 		<button
-			type={type}
 			css={[
 				style(disabled),
 				bgColorStyle,
@@ -55,8 +52,7 @@ const Button = ({
 				widthStyle,
 				strokeMode
 			]}
-			onClick={onClick}
-			className={className}>
+			{...props}>
 			{children}
 		</button>
 	)

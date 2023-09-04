@@ -1,27 +1,30 @@
-/** @jsxImportSource @emotion/react */
-import React from 'react';
+import React, {createElement, ElementType} from 'react';
 
-interface FlexProps {
-	onClick?: void;
+interface FlexProps extends React.CSSProperties {
+	as?: ElementType;
 	children: React.ReactNode | string;
-	display?: 'flex' | 'inline-flex';
-	flexDirection?: React.CSSProperties['flexDirection'];
-	justifyContent?: React.CSSProperties['justifyContent'];
-	alignItems?: React.CSSProperties['alignItems'];
-	flexWrap?: React.CSSProperties['flexWrap'];
-}
+};
 
 const Flex = ({
+	as = 'div',
 	display = 'flex',
 	flexDirection = 'row',
 	justifyContent = 'flex-start',
 	alignItems = 'stretch',
 	flexWrap = 'nowrap',
-	children
+	children,
+	...props
 }: FlexProps) => {
 
 	return (
-		<div css={{display, flexDirection, justifyContent, alignItems, flexWrap}}>{children}</div>
+		createElement(
+			as,
+			{
+				...props,
+				style: {flexDirection, display, justifyContent, alignItems, flexWrap}
+			},
+			children
+		)
 	)
 };
 
