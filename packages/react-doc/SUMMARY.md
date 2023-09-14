@@ -10,3 +10,5 @@
   * [React 렌더링](learn-react/state-hook/react.md)
   * [snapshot으로써의 state](learn-react/state-hook/snapshot-state.md)
   * [state 업데이트를 큐에 담기](learn-react/state-hook/state.md)
+  * [객체 state](learn-react/state-hook/state-1.md)
+  * [state 관리](learn-react/state-hook/state-2.md)

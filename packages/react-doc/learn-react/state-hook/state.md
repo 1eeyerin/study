@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # state 업데이트를 큐에 담기
 
 ## state 업데이트 일괄처리  <a href="#react-batches-state-updates" id="react-batches-state-updates"></a>
@@ -78,3 +92,7 @@ const [number, setNumber] = useState(0);
 \
 그렇기에 <mark style="color:red;">**업데이터 함수 내부에서 state를 변경하거나 다른 사이드 이팩트를 실행하는 것을 하지 말아야 한다.**</mark>
 {% endhint %}
+
+## 실습 - state 큐를 직접 구현해보기
+
+{% embed url="https://codesandbox.io/embed/ancient-fog-prf599?fontsize=14&hidenavigation=1&module=/processQueue.js&theme=light&view=preview" %}

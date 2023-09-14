@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # event handler에 전달할때 함수 호출을 조심하자
 
 ## 🙆🏻‍♀️ 올바른 함수 전달&#x20;

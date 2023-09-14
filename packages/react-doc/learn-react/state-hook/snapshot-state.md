@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # snapshot으로써의 state
 
 state는 js 변수처럼 보일 수 있지만, 스냅샷 처럼 동작한다.

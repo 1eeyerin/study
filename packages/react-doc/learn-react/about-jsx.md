@@ -1,5 +1,16 @@
 ---
 description: jsx란? / jsx 규칙
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # jsx에 대해서
