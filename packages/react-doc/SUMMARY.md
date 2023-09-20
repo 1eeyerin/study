@@ -16,3 +16,6 @@
   * [컴포넌트 간의 state 공유](learn-react/state-hook/state-4.md)
   * [state 보존 및 재설정](learn-react/state-hook/state-5.md)
   * [props 전달의 문제](learn-react/state-hook/props.md)
+* [Escape Hatches](learn-react/escape-hatches/README.md)
+  * [Ref](learn-react/escape-hatches/ref.md)
+  * [Effect와 동기화하기](learn-react/escape-hatches/effect.md)
