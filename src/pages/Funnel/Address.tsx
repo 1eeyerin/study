@@ -1,8 +1,9 @@
 import { Label } from '@radix-ui/react-label';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
+import type { FunnelProps } from './types';
 
-const Address = () => {
+const Address = ({ onNext }: FunnelProps) => {
   return (
     <div className="bg-[#f9f9f9]">
       <div className="max-w-md mx-auto h-dvh bg-white pt-10 flex flex-col justify-between">
@@ -14,7 +15,9 @@ const Address = () => {
           </div>
         </div>
         <div className="sticky bottom-0 border-t border-gray-200 p-4">
-          <Button className="w-full">입력한 주소로 유심 받기</Button>
+          <Button className="w-full" onClick={onNext}>
+            입력한 주소로 유심 받기
+          </Button>
         </div>
       </div>
     </div>

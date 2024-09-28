@@ -5,25 +5,16 @@ import Address from './Address';
 import Finish from './Finish';
 
 const Funnel = () => {
-  const [step, setStep] = useState<number>(3);
+  const [step, setStep] = useState<string>('가입방식');
 
-  if (step === 0) {
-    return <Register />;
-  }
-
-  if (step === 1) {
-    return <ResidentId />;
-  }
-
-  if (step === 2) {
-    return <Address />;
-  }
-
-  if (step === 3) {
-    return <Finish />;
-  }
-
-  return null;
+  return (
+    <>
+      {step === '가입방식' && <Register onNext={() => setStep('주민등록번호')} />}
+      {step === '주민등록번호' && <ResidentId onNext={() => setStep('주소')} />}
+      {step === '주소' && <Address onNext={() => setStep('가입성공')} />}
+      {step === '가입성공' && <Finish />}
+    </>
+  );
 };
 
 export default Funnel;
