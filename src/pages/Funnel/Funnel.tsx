@@ -3,9 +3,10 @@ import Register from './Register';
 import ResidentId from './ResidentId';
 import Address from './Address';
 import Finish from './Finish';
+import type { StepType } from './types';
 
 const Funnel = () => {
-  const [step, setStep] = useState<string>('가입방식');
+  const [step, setStep] = useState<StepType>('가입방식');
 
   return (
     <>
