@@ -1,14 +1,29 @@
-import { Input } from '../../components/ui/input';
+import { useState } from 'react';
+import Register from './Register';
+import ResidentId from './ResidentId';
+import Address from './Address';
+import Finish from './Finish';
 
 const Funnel = () => {
-  return (
-    <div className="bg-[#f9f9f9]">
-      <div className="max-w-md mx-auto h-screen bg-white p-4 py-10">
-        <strong className="text-2xl">지금 휴대폰 번호를 그대로 쓸까요?</strong>
-        <Input type="email" placeholder="Email" />
-      </div>
-    </div>
-  );
+  const [step, setStep] = useState<number>(3);
+
+  if (step === 0) {
+    return <Register />;
+  }
+
+  if (step === 1) {
+    return <ResidentId />;
+  }
+
+  if (step === 2) {
+    return <Address />;
+  }
+
+  if (step === 3) {
+    return <Finish />;
+  }
+
+  return null;
 };
 
 export default Funnel;
