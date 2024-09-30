@@ -1,29 +1,28 @@
-import { useState } from 'react';
 import Register from './Register';
 import ResidentId from './ResidentId';
 import Address from './Address';
 import Finish from './Finish';
-import type { StepType } from './types';
-import { Step } from '../../components/Step';
+import useFunnel from '../../hooks/useFunnel';
+import { StepName } from '../../constants/funnel';
 
 const Funnel = () => {
-  const [step, setStep] = useState<StepType>('가입방식');
+  const [Funnel, setStep] = useFunnel();
 
   return (
-    <>
-      <Step if={step === '가입방식'}>
-        <Register onNext={() => setStep('주민등록번호')} />
-      </Step>
-      <Step if={step === '주민등록번호'}>
-        <ResidentId onNext={() => setStep('주소')} />
-      </Step>
-      <Step if={step === '주소'}>
-        <Address onNext={() => setStep('가입성공')} />
-      </Step>
-      <Step if={step === '가입성공'}>
+    <Funnel>
+      <Funnel.Step name={StepName.REGISTER}>
+        <Register onNext={() => setStep(StepName.RESIDENT_ID)} />
+      </Funnel.Step>
+      <Funnel.Step name={StepName.RESIDENT_ID}>
+        <ResidentId onNext={() => setStep(StepName.ADDRESS)} />
+      </Funnel.Step>
+      <Funnel.Step name={StepName.ADDRESS}>
+        <Address onNext={() => setStep(StepName.FINISH)} />
+      </Funnel.Step>
+      <Funnel.Step name={StepName.FINISH}>
         <Finish />
-      </Step>
-    </>
+      </Funnel.Step>
+    </Funnel>
   );
 };
 
