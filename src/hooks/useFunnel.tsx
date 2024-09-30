@@ -1,15 +1,14 @@
 import { useState } from 'react';
-import type { FunnelProps, StepProps, StepType } from '../types/funnel';
-import { StepName } from '../constants/funnel';
+import type { StepComponentProps, FunnelComponentProps } from '../types/funnel';
 
-export const Step = ({ children }: StepProps) => {
+const Step = <T extends string>({ children }: StepComponentProps<T>) => {
   return <>{children}</>;
 };
 
-const useFunnel = (initialStep: StepType = StepName.REGISTER) => {
-  const [step, setStep] = useState<StepType>(initialStep);
+const useFunnel = <T extends string>(steps: readonly T[]) => {
+  const [step, setStep] = useState<T>(steps[0]);
 
-  const Funnel = ({ children }: FunnelProps) => {
+  const Funnel = ({ children }: FunnelComponentProps) => {
     if (!children) return null;
 
     const targetStep = children.find(childStep => childStep.props.name === step);
@@ -18,7 +17,7 @@ const useFunnel = (initialStep: StepType = StepName.REGISTER) => {
     return targetStep;
   };
 
-  Funnel.Step = Step;
+  Funnel.Step = Step<T>;
 
   return [Funnel, setStep] as const;
 };

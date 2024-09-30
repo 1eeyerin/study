@@ -6,7 +6,7 @@ import useFunnel from '../../hooks/useFunnel';
 import { StepName } from '../../constants/funnel';
 
 const Funnel = () => {
-  const [Funnel, setStep] = useFunnel();
+  const [Funnel, setStep] = useFunnel(Object.values(StepName));
 
   return (
     <Funnel>
