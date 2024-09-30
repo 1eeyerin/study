@@ -1,9 +1,9 @@
 import { Label } from '@radix-ui/react-label';
-import { Input } from '../../components/ui/input';
-import { Button } from '../../components/ui/button';
-import type { FunnelProps } from './types';
+import { FunnelPageProps } from '../../../types/funnel';
+import { Input } from '../../../components/ui/input';
+import { Button } from '../../../components/ui/button';
 
-const Register = ({ onNext }: FunnelProps) => {
+const Register = ({ onNext }: FunnelPageProps) => {
   return (
     <div className="bg-[#f9f9f9]">
       <div className="max-w-md mx-auto h-dvh bg-white pt-10 flex flex-col justify-between">
