@@ -1,9 +1,6 @@
-import Register from './Register';
-import ResidentId from './ResidentId';
-import Address from './Address';
-import Finish from './Finish';
 import useFunnel from '../../hooks/useFunnel';
 import { StepName } from '../../constants/funnel';
+import { Register, ResidentId, Address, Finish } from './components';
 
 const Funnel = () => {
   const [Funnel, setStep] = useFunnel(Object.values(StepName));

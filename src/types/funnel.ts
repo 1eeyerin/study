@@ -5,3 +5,7 @@ export type StepComponentProps<T extends string> = StrictPropsWithChildren<{
 }>;
 
 export type FunnelComponentProps = { children: React.ReactElement[] };
+
+export type FunnelPageProps = {
+  onNext: () => void;
+};
